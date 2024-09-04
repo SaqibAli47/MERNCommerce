@@ -22,7 +22,7 @@ MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deploymen
 - Redux Toolkit with Async Thunk
 - React Router v6
 - JSON-server for front-end testing
-- MongoDB for Database
+- MongoDB for Database System
 - Mongoose v7 as ODM
 - REST API using Express
 - Authentication using Passport JS
